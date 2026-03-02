@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: เตโชทัย ทั้งเจริญกุล
+# STUDENT ID: 670610524
